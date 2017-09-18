@@ -1,7 +1,7 @@
 {
   "name": "mixpanel-retention",
   "description": "A Mixpanel library for generating nice retention charts.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Ali Anari <ali@anari.io>",
   "contributors": [
     {
