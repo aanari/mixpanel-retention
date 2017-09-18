@@ -1,0 +1,46 @@
+{
+  "name": "mixpanel-retention",
+  "description": "A Mixpanel library for generating nice retention charts.",
+  "version": "0.1.0",
+  "author": "Ali Anari <ali@anari.io>",
+  "contributors": [
+    {
+      "name": "mixpanel-retention contributors",
+      "url": "https://github.com/aanari/mixpanel-retention/graphs/contributors"
+    }
+  ],
+  "keywords": [
+    "mixpanel",
+    "retention",
+    "analytics",
+    "api",
+    "cohort",
+    "analysis",
+    "excel",
+    "data",
+    "science",
+    "chart"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aanari/mixpanel-retention.git"
+  },
+  "dependencies": {
+    "jszip": "^3.1.4",
+    "lodash": "^4.17.4",
+    "mixpanel-data-export-node": "^2.0.0",
+    "moment": "^2.18.1",
+    "xlsx-style": "^0.8.13"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "main": "./lib",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "license": "MIT"
+}
